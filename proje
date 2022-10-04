@@ -1,0 +1,41 @@
+<html>
+       <head>
+<title>2.Öğretim Ders</title>
+<meta charset="utr-8" />
+<meta name="keyworde" content="dpü,Kütahya,dumlupınar" />
+<meta name="description"content="ilk HTML sayfam "/>
+
+     </head>
+   </body>
+   Merhaba Kütahya<br />
+   <p>Kütahya Dumlupınar Üniversitesi</p>
+   <p>Kütahya Teknik Bilimler MYO </p>
+   <p>Kütahya Bilgisayar Programcılığı </p>
+   <h1>Kütahya Dumlupınar Üniversitesi</h1>
+   <h2>Kütahya Dumlupınar Üniversitesi</h2>
+   <h3>Kütahya Dumlupınar Üniversitesi</h3>
+   <h4>Kütahya Dumlupınar Üniversitesi</h4>
+   <h5>Kütahya Dumlupınar Üniversitesi</h5>
+   <h6>Kütahya Dumlupınar Üniversitesi</h6>
+   
+   <!--
+   
+        Sıralı liste:ordered list
+		Sırasız liste:unordered list
+		**List İtem**
+		-->
+		<ol>
+		     <li>Kütahya</li>
+			 <li>İstanbul</li>
+			 <li>İzmir</li>
+			 <li>Bursa</li>
+        </ol>
+        <ul>
+		    <li>Kütahya</li>
+			<li>İstanbul</li>
+			<li>İzmir</li>
+			<li>Bursa</li>
+	    </ul>
+    </body>
+</html>
+     
